@@ -17,6 +17,8 @@ Heart Disease dataset from public GitHub source.
 
 ## Output
 The model evaluates performance using Accuracy, Confusion Matrix, and Classification Report.
+https://github.com/richu-sharma/Heart-Disease-Prediction/blob/main/Heart-Disease-Prediction/s1.jpg
+
 
 
 
